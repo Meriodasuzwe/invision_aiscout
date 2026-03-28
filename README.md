@@ -10,6 +10,7 @@
 
 ###  Архитектура
 ![Architecture](architecture.png)
+
 *Микросервисный подход: FastAPI (Core) -> Groq LLM (Scoring Engine).*
 
 ###  Запуск (MVP)
