@@ -8,11 +8,11 @@
 - **Fact-over-Fluff Extraction:** Выделение конкретных достижений.
 - **Dynamic Probing:** AI генерирует проверочные вопросы для комиссии.
 
-### 🏗 Архитектура
+###  Архитектура
 ![Architecture](architecture.png)
 *Микросервисный подход: FastAPI (Core) -> Groq LLM (Scoring Engine).*
 
-### 🛠 Запуск (MVP)
+###  Запуск (MVP)
 1. `pip install -r requirements.txt`
 2. `python main.py`
 3. API Docs: `http://127.0.0.1:8000/docs`
